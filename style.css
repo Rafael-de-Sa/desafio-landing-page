@@ -59,7 +59,9 @@
     padding-left: 77px;
 }
 
-#titulo-texto-imagem {}
+#titulo-texto-imagem {
+    font-size: 36px;
+}
 
 #texto-texto-imagem {
     font-size: 24px;
